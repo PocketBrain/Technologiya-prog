@@ -1,0 +1,8 @@
+---------------This is the Student.-----------------
+FIO : 
+Ivan Ivanov
+
+BORN DATA : 22.05.2002
+NumberGroup : 1045
+AddData : 01.09.2020
+AvgScore : 5.0

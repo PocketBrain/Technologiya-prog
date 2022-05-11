@@ -1,0 +1,7 @@
+﻿  Chairman.cpp
+  Student.cpp
+  Teacher.cpp
+  main3laba.cpp
+C:\Users\pocket_brain\source\repos\Laba3TechProga\main3laba.cpp(27,7): warning C4101: menu_choice: неиспользованная локальная переменная
+  Создание кода...
+  Laba3TechProga.vcxproj -> C:\Users\pocket_brain\source\repos\Laba3TechProga\Debug\Laba3TechProga.exe
